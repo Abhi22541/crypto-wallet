@@ -1,7 +1,7 @@
-streamlit==1.18.0  # Streamlit for the app interface
-psycopg2-binary==2.9.3  # PostgreSQL database adapter
-qrcode==7.3.1  # QR code generation
-cryptography==39.0.1  # For wallet data encryption (Fernet)
-sqlalchemy==2.0.10  # ORM to interact with the PostgreSQL database
-pandas==1.5.3  # Optional for data manipulation, useful with SQLAlchemy
-python-dotenv==0.20.0  # For environment variable management (like DB credentials)
+streamlit==1.18.0
+psycopg2-binary==2.9.3
+qrcode==7.3.1
+cryptography==39.0.1
+sqlalchemy==2.0.10
+pandas==1.5.3
+python-dotenv==0.20.0
